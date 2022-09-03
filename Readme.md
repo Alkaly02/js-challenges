@@ -1,6 +1,5 @@
 ![JS CHALLENGES](https://user-images.githubusercontent.com/89929592/188266371-1a9030d6-d81c-42a2-8214-bfc9b6025bdf.png)
 
-# Js Challenges
 
 # Règles
 1- Avant de commencer un challenge, créer votre propre sous dossier<br>
