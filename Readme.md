@@ -1,3 +1,4 @@
+![DAILY JS](https://user-images.githubusercontent.com/89929592/188266137-75db5b76-3da6-4fe7-911f-023e00478255.png)
 # Js Challenges
 
 # Règles
