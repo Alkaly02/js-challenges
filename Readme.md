@@ -6,3 +6,4 @@
 2- Avant de commencer un challenge, créer votre propre sous dossier<br>
 3- Le sous dossier portera le nom du challenge<br>
 4- Le sous dossier contiendra le fichier html, css(optionnel) et javascript<br>
+5- SI ON NE LIVRE PAS TOUS LES TROIS JOUR, ON SERA RETIRE DU CHALLENGE
