@@ -1,5 +1,6 @@
 ![JS CHALLENGES](https://user-images.githubusercontent.com/89929592/188266371-1a9030d6-d81c-42a2-8214-bfc9b6025bdf.png)
 
+# Lien des challenges : https://www.codecademy.com/resources/blog/10-javascript-code-challenges-for-beginners/
 
 # Règles
 1- Créer votre propre branche<br>
